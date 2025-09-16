@@ -1,0 +1,25 @@
+[
+  {
+    "policy_holder": "Pratik Jadhav",
+    "policy_number": "VE123456789",
+    "product_name": "Wealth Secure Plan",
+    "policy_start_date": "01-Jan-2021",
+    "total_premium_paid": "₹50,000",
+    "premium_due_date": "30-Jun-2024",
+    "outstanding_amount": "₹12,500",
+    "sum_assured": "₹2,00,000",
+    "fund_value": "₹64,300",
+    "language":"telugu"
+  },
+  {
+    "policy_holder": "Aarti Sharma",
+    "policy_number": "VE987654321",
+    "product_name": "Guaranteed Growth Plan",
+    "policy_start_date": "15-Feb-2022",
+    "total_premium_paid": "₹35,000",
+    "premium_due_date": "10-Jul-2024",
+    "outstanding_amount": "₹10,000",
+    "sum_assured": "₹1,50,000",
+    "fund_value": "₹38,750"
+  }
+]
